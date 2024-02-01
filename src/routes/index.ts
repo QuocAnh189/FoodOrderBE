@@ -6,6 +6,7 @@ import UserRoute from './user.route';
 import CategoryRoute from './category.route';
 import MenuItemRoute from './menuItem.route';
 import OrderRoute from './order.route';
+
 const route = Router();
 
 route.use(PATHS.AUTH, new AuthRoute().router);

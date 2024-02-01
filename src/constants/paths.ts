@@ -6,4 +6,4 @@ export const PATHS = {
   CATEGORY: `${API}/category`,
   MENUITEM: `${API}/menuitem`,
   ORDER: `${API}/order`,
-};
+
