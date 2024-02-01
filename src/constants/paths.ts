@@ -5,4 +5,5 @@ export const PATHS = {
   USER: `${API}/user`,
   CATEGORY: `${API}/category`,
   MENUITEM: `${API}/menuitem`,
+  ORDER: `${API}/order`,
 };
